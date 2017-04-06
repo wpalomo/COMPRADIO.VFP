@@ -1,0 +1,105 @@
+Visual Class Library d:\proyectos\torsesa\sga.net\procaot.vfp\ws.vcx has the following errors:
+    Unknown F3_SQL - Undefined
+
+Visual Class Library d:\proyectos\torsesa\sga.net\procaot.vfp\tf6.vcx has the following errors:
+    Proc./Func. MENU - Undefined
+    Unknown CERRARFICHEROSSGA - Undefined
+    Unknown CERRARCOMUNICACIONESSGA - Undefined
+    Unknown INICIALIZARCOMUNICACIONESSGA - Undefined
+    Unknown ABRIRFICHEROSSGA - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\traspaso.prg has the following errors:
+    Unknown F3_SQL - Undefined
+    Unknown ANOMALIAS - Undefined
+    Unknown F3_SEEK - Undefined
+    Unknown F3_INSTUN - Undefined
+    Unknown TIPPRO - Undefined
+    Unknown TAMABI - Undefined
+    Unknown F3_SQLEXEC - Undefined
+    Unknown F3_UPDTUN - Undefined
+    Unknown F3_BOTTOM - Undefined
+    Unknown F3_BAJA - Undefined
+    Unknown ORA_NEWHM - Undefined
+    Unknown ORA_NEWTRM - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\saexcfca.prg has the following errors:
+    Unknown F3_SQL - Undefined
+    Unknown F3_SEEK - Undefined
+    Unknown F3_UPDTUN - Undefined
+    Unknown WAITWINDOW - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\procrstk.prg has the following errors:
+    Unknown F3_SEEK - Undefined
+    Unknown F3_INSTUN - Undefined
+    Unknown F3_SQLEXEC - Undefined
+    Unknown F3_UPDTUN - Undefined
+    Unknown _GCN - Undefined
+
+Form d:\proyectos\torsesa\sga.net\procaot.vfp\st3imp2.scx has the following errors:
+    Unknown F3_T - Undefined
+    Visual Class Library _MENU - Undefined
+
+Form d:\proyectos\torsesa\sga.net\procaot.vfp\st3inc.scx has the following errors:
+    Unknown F3_T - Undefined
+    Unknown F3_ESC - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\ora_ca00.prg has the following errors:
+    Unknown F3_SQL - Undefined
+    Unknown F3_SEEK - Undefined
+    Unknown F3_UPDTUN - Undefined
+    Unknown _GCN - Undefined
+    Unknown F_SELEC - Undefined
+    Proc./Func. DESOCU - Undefined
+    Unknown F3_SN - Undefined
+    Proc./Func. FSELEC - Undefined
+
+Visual Class Library d:\proyectos\torsesa\sga.net\procaot.vfp\st3class.vcx has the following errors:
+    Unknown F3_SEEK - Undefined
+    Unknown F3_BOTTOM - Undefined
+    Unknown F3_BAJA - Undefined
+    Unknown WAITWINDOW - Undefined
+    Unknown F3_T - Undefined
+    Unknown F3_ESC - Undefined
+    Unknown F3_SN - Undefined
+    Unknown SQ3_CAMP - Undefined
+    Unknown F3_OK - Undefined
+    Unknown F3_HLP - Undefined
+    Unknown F3_LIMPIA - Undefined
+    Unknown F3_TECL - Undefined
+    Unknown F3_POSICION - Undefined
+    Unknown F3_CI - Undefined
+    Unknown F3_BOT - Undefined
+    Unknown F3_NAV - Undefined
+    Unknown F3_LST - Undefined
+    Unknown F3_CERRAR - Undefined
+    Unknown F3_TOP - Undefined
+    Unknown F3_ANT - Undefined
+    Unknown F3_POS - Undefined
+    Unknown F3_INS - Undefined
+    Unknown F3_UPD - Undefined
+    Unknown F3_UNLOCK - Undefined
+    Unknown F3_RLOCK - Undefined
+    Unknown SQ3_LINT - Undefined
+    Unknown F3_HLPFC - Undefined
+    Unknown _IDIOM - Undefined
+
+Form d:\proyectos\torsesa\sga.net\procaot.vfp\st3sn.scx has the following errors:
+    Unknown F3_T - Undefined
+    Unknown F3_ESC - Undefined
+    Unknown F3_OK - Undefined
+
+Form d:\proyectos\torsesa\sga.net\procaot.vfp\st3baja.scx has the following errors:
+    Unknown F3_BAJA - Undefined
+    Unknown F3_T - Undefined
+
+Form d:\proyectos\torsesa\sga.net\procaot.vfp\st3bajac.scx has the following errors:
+    Unknown F3_BAJA - Undefined
+    Unknown F3_T - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\st3ls.prg has the following errors:
+    Unknown F3_CI - Undefined
+
+Program d:\proyectos\torsesa\sga.net\procaot.vfp\sy3lsi.prg has the following errors:
+    Unknown F3_T - Undefined
+    Unknown F3_SN - Undefined
+

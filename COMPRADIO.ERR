@@ -1,0 +1,61 @@
+Form d:\proyectos\sga.net\procaot.vfp\st3trasp.scx has the following errors:
+    Unknown M_ORIGEN - Undefined
+    Unknown M_DESTINO - Undefined
+
+Program d:\proyectos\sga.net\procaot.vfp\ora_proc.prg has the following errors:
+    Unknown A_DATOS - Undefined
+    Program IMPRIME - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\st3hlp.scx has the following errors:
+    Unknown _XBUSCA - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\st3hlpf.scx has the following errors:
+    Unknown _XBUSCA - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\st3sqle.scx has the following errors:
+    Unknown _LSQL - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\st3sqlp.scx has the following errors:
+    Unknown TIT_GR - Undefined
+
+Program d:\proyectos\sga.net\procaot.vfp\procesos.prg has the following errors:
+    Program IMPRIME - Undefined
+    Form LISRPO1 - Undefined
+    Program LIB_CU00 - Undefined
+    Unknown PRC_NLD - Undefined
+    Program PRMENT - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\st3sqld.scx has the following errors:
+    Unknown _SQL_COND - Undefined
+    Unknown _LSELE - Undefined
+    Unknown COMBO1 - Undefined
+    Unknown _LPROG - Undefined
+    Unknown COMBO2 - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\sy3usr.scx has the following errors:
+    Unknown F3_CE - Undefined
+
+Form d:\proyectos\sga.net\procaot.vfp\sy3fich.scx has the following errors:
+    Unknown CMP - Undefined
+    Unknown CMPIDX - Undefined
+
+Program d:\proyectos\sga.net\procaot.vfp\st3sqle.prg has the following errors:
+    Unknown M_DESTINO - Undefined
+
+Program d:\proyectos\sga.net\procaot.vfp\st3ce.prg has the following errors:
+    Unknown F3_CE - Undefined
+
+Visual Class Library d:\proyectos\sga.net\procaot.vfp\tf6.vcx has the following errors:
+    Proc./Func. MENU - Undefined
+    Unknown CERRARFICHEROSSGA - Undefined
+    Unknown CERRARCOMUNICACIONESSGA - Undefined
+    Unknown INICIALIZARCOMUNICACIONESSGA - Undefined
+    Unknown ABRIRFICHEROSSGA - Undefined
+
+Program d:\proyectos\sga.net\procaot.vfp\traspaso.prg has the following errors:
+    Unknown TIPPRO - Undefined
+    Unknown TAMABI - Undefined
+
+Visual Class Library d:\proyectos\sga.net\procaot.vfp\comunicaciones.vcx has the following errors:
+    Proc./Func. MENU - Undefined
+
